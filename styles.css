@@ -1,0 +1,10 @@
+body{background-color: #053ED8;}
+h1{font-family: Arial; font-size: 65px; color: #3C0672; text-align: center;border-style: double; border-width: 5px; border-color: darkviolet; padding: 5px;}
+b{font-family: Helvetica; font-size: 24px; color: black; text-align: center; }
+a{font-family: Cooperplate; font-size: 24px; color: blue ; text-decoration: none;}
+a:hover{color: #E40AD3;}
+ul{list-style-type: none; display: inline}
+li{float: left; a: display: block;
+  padding: 8px;
+  background-color: #E40AD7}
+img{border-style: double; border-width: 5px; border-color: #630AE4; padding: 5px; display: block; margin-left: auto; margin-right: auto; width: 50%;}
